@@ -1,6 +1,6 @@
 {
   "name": "colabore",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "O Colabore.ufpe é uma rede social voltada para a cidadania que tem como objetivo conectar pessoas e campos de maneira transparente e com foco na resolução de problemas, discussão de projetos e avaliação dos serviços públicos.",
   "dependencies": {
     "gulp": "^3.5.6",
